@@ -1,0 +1,2 @@
+# NetCoreCampsAPI
+.Net Core API
